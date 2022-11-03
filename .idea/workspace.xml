@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3af7d9a6-3b41-473d-8724-b0f83aca9b69" name="Default Changelist" comment="" />
+    <list default="true" id="3af7d9a6-3b41-473d-8724-b0f83aca9b69" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backendApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/backendApi.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2GNdO1O2Bklh1HPdkRwjaMcADa1" />
   <component name="ProjectViewState">
@@ -33,6 +39,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -69,6 +76,9 @@
       <workItem from="1666232941027" duration="999000" />
       <workItem from="1666794824856" duration="4000" />
       <workItem from="1666795133323" duration="7529000" />
+      <workItem from="1666843579703" duration="1032000" />
+      <workItem from="1666938079022" duration="1405000" />
+      <workItem from="1667441829169" duration="5751000" />
     </task>
     <servers />
   </component>
